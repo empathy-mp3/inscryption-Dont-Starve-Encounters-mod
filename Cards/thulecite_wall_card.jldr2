@@ -1,0 +1,24 @@
+{
+    "name": "thulecite_wall",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Thulecite Wall",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 4,
+    "abilities": [
+        "MadeOfStone"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Shadow"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "thulecite_wall.png"
+}

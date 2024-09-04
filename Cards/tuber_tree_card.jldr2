@@ -1,0 +1,23 @@
+{
+    "name": "tuber_tree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Tuber Tree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "abilities": [
+        "Transformer",
+        "Deathtouch"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "tuber_tree.png",
+    "evolveIntoName": "dontstarveEn_tuber_tree_blooming"
+}

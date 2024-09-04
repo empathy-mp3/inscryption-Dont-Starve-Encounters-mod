@@ -1,0 +1,132 @@
+{
+    "name": "DontStarveEn.Nightmare",
+    "minDifficulty": 1,
+    "maxDifficulty": 100,
+    "regions": [
+        "Alpine",
+        "Wetlands"
+    ],
+    "dominantTribes": [
+        "Bird"
+    ],
+    "randomReplacementCards": [
+        "dontstarve_baby_doydoy",
+        "dontstarve_teen_doydoy",
+        "dontstarve_doydoy"
+    ],
+    "redundantAbilities": [
+        "Brittle",
+        "Evolve"
+    ],
+    "turns": [
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_doydoy",
+                    "difficultyReq": 12,
+                    "difficultyReplacement": "dontstarve_teen_doydoy"
+                },
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 25,
+                    "difficultyReplacement": "dontstarve_teen_doydoy"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_teen_doydoy",
+                    "difficultyReq": 16,
+                    "difficultyReplacement": "dontstarve_baby_doydoy"
+                },
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_teen_doydoy"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_doydoy",
+                    "randomReplaceChance": 25
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_doydoy",
+                    "difficultyReq": 20,
+                    "difficultyReplacement": "dontstarve_teen_doydoy"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 15,
+                    "difficultyReplacement": "dontstarve_doydoy"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 15,
+                    "difficultyReplacement": "dontstarve_doydoy"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_baby_doydoy"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 22,
+                    "difficultyReplacement": "dontstarve_doydoy"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 22,
+                    "difficultyReplacement": "dontstarve_teen_doydoy"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 26,
+                    "difficultyReplacement": "dontstarve_baby_doydoy"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_baby_doydoy"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 23,
+                    "difficultyReplacement": "dontstarve_baby_doydoy"
+                }
+            ]
+        }
+    ]
+}

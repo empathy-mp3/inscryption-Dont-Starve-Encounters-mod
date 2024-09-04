@@ -1,0 +1,22 @@
+{
+    "name": "striking_statue",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Striking Statue",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "abilities": [
+        "MadeOfStone",
+        "Sentry"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "striking_statue.png"
+}

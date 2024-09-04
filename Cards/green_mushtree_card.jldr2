@@ -1,0 +1,21 @@
+{
+    "name": "green_mushtree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Green Mushtree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "abilities": [
+        "GainGemGreen"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "green_mushtree.png"
+}

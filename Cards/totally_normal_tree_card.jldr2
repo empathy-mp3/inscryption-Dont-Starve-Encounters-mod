@@ -1,0 +1,24 @@
+{
+    "name": "totally_normal_tree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Totally Normal Tree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 4,
+    "abilities": [
+        "Reach"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Shadow"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "totally_normal_tree.png"
+}

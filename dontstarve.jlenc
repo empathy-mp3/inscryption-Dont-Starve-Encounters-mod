@@ -1,0 +1,7 @@
+{
+	"Title": "Don't Starve Encounters",
+	"Description": "Battle against the many creatures of Don't Starve.",
+	"ModPrefix": "dontstarveEn",
+	"PackArt": "dontstarve_encounter_pack.png",
+    "ValidFor": ["LeshyPack"]
+}

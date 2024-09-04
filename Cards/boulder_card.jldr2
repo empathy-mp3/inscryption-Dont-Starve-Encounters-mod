@@ -1,0 +1,21 @@
+{
+    "name": "boulder",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Boulder",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 4,
+    "abilities": [
+        "MadeOfStone"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "boulder.png"
+}

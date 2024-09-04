@@ -1,0 +1,25 @@
+{
+    "name": "moonrock_boulder",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Moonrock Boulder",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 4,
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Lunar"
+    ],
+    "abilities": [
+        "MadeOfStone"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "moonrock_boulder.png",
+    "emissionTexture": "moonrock_boulder_e.png"
+}

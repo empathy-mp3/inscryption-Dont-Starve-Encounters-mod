@@ -1,0 +1,109 @@
+{
+    "name": "DontStarveEn.Lunar",
+    "minDifficulty": 1,
+    "maxDifficulty": 100,
+    "regions": [
+        "Forest",
+        "Wetlands"
+    ],
+    "dominantTribes": [
+        "empathymp3.inscryption.dontstarve.Lunar"
+    ],
+    "randomReplacementCards": [
+        "dontstarve_misshapen_bird",
+        "dontstarve_moonblind_crow",
+        "dontstarve_saladmander",
+        "dontstarve_shattered_spider",
+        "dontstarve_spider",
+        "dontstarve_yellow_crocodog",
+        "dontstarve_mandrake_sleeping"
+    ],
+    "redundantAbilities": [
+        "Flying"
+    ],
+    "turns": [
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_misshapen_bird",
+                    "randomReplaceChance": 25,
+                    "difficultyReq": 10,
+                    "difficultyReplacement": "dontstarve_horror_hound"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 20,
+                    "difficultyReplacement": "dontstarve_moonblind_crow"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_teen_doydoy",
+                    "randomReplaceChance": 12,
+                    "difficultyReq": 10,
+                    "difficultyReplacement": "dontstarve_baby_doydoy"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 20,
+                    "difficultyReplacement": "dontstarve_saladmander"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 12,
+                    "difficultyReplacement": "dontstarve_horror_hound"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 16,
+                    "difficultyReplacement": "dontstarve_shattered_spider"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 22,
+                    "difficultyReplacement": "dontstarve_spider"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 25,
+                    "difficultyReplacement": "dontstarve_shattered_spider"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_shattered_spider"
+                }
+            ]
+        }
+    ]
+}

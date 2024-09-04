@@ -1,0 +1,21 @@
+{
+    "name": "evergreen",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Evergreen",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "abilities": [
+        "Reach"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "evergreen.png"
+}

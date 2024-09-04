@@ -1,0 +1,21 @@
+{
+    "name": "stalagmite",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Stalagmite",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 5,
+    "abilities": [
+        "MadeOfStone"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "stalagmite.png"
+}

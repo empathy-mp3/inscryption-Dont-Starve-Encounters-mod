@@ -1,0 +1,22 @@
+{
+    "name": "moon_glass",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Moon Glass",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Lunar"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "moon_glass.png",
+    "emissionTexture": "moon_glass_e.png"
+}

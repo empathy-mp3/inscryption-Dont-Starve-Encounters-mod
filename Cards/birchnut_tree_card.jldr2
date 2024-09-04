@@ -1,0 +1,18 @@
+{
+    "name": "birchnut_tree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Birchnut Tree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "birchnut_tree.png"
+}

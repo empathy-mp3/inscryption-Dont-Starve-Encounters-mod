@@ -1,0 +1,21 @@
+{
+    "name": "red_mushtree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Red Mushtree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "abilities": [
+        "GainGemOrange"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "red_mushtree.png"
+}

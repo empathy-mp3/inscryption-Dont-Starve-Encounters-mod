@@ -1,0 +1,82 @@
+{
+    "name": "DontStarveEn.Machine",
+    "minDifficulty": 1,
+    "maxDifficulty": 100,
+    "regions": [
+        "Forest",
+        "Alpine",
+        "Wetlands"
+    ],
+    "dominantTribes": [
+        "Hooved"
+    ],
+    "randomReplacementCards": [
+        "dontstarve_clockwork_bishop",
+        "dontstarve_clockwork_knight",
+        "dontstarve_clockwork_rook",
+        "dontstarve_mossling"
+    ],
+    "turns": [
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_clockwork_rook",
+                    "difficultyReq": 8,
+                    "difficultyReplacement": "dontstarve_spazmatism"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 27,
+                    "difficultyReplacement": "dontstarve_clockwork_bishop"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 15,
+                    "difficultyReplacement": "dontstarve_clockwork_bishop"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 24,
+                    "difficultyReplacement": "dontstarve_clockwork_knight"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_clockwork_rook",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_ancient_guardian"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        }
+    ]
+}

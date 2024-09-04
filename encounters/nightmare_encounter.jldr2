@@ -1,0 +1,126 @@
+{
+    "name": "DontStarveEn.Nightmare",
+    "minDifficulty": 1,
+    "maxDifficulty": 100,
+    "regions": [
+        "Forest",
+        "Alpine"
+    ],
+    "dominantTribes": [
+        "empathymp3.inscryption.dontstarve.Shadow"
+    ],
+    "randomReplacementCards": [
+        "dontstarve_terrorbeak",
+        "dontstarve_crawling_horror",
+        "dontstarve_swimming_horror",
+        "dontstarve_night_hand",
+        "dontstarve_mr_skitts",
+        "dontstarve_wavey_jones",
+        "dontstarve_terrorclaw",
+        "dontstarve_cave_spider",
+        "dontstarve_dangling_depths_dweller"
+    ],
+    "redundantAbilities": [
+        "GemDependant",
+        "Strafe",
+        "StrafePush"
+    ],
+    "turns": [
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_crawling_nightmare"
+                },
+                {
+                    "card": "dontstarve_wavey_jones",
+                    "randomReplaceChance": 25,
+                    "difficultyReq": 35,
+                    "difficultyReplacement": "dontstarve_nightmarebeak"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarveEn_green_mushtree",
+                    "randomReplaceChance": 50,
+                    "difficultyReq": 32,
+                    "difficultyReplacement": "dontstarve_crawling_nightmare"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 13,
+                    "difficultyReplacement": "dontstarve_terrorbeak"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 12,
+                    "difficultyReplacement": "dontstarveEn_red_mushtree"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 25,
+                    "difficultyReplacement": "dontstarve_mr_skitts"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 14,
+                    "difficultyReplacement": "dontstarve_crawling_horror"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_mr_skitts"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 22,
+                    "difficultyReplacement": "dontstarveEn_blue_mushtree"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 22,
+                    "difficultyReplacement": "dontstarve_mr_skitts"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 26,
+                    "difficultyReplacement": "dontstarve_mr_skitts"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 30,
+                    "difficultyReplacement": "dontstarve_mr_skitts"
+                }
+            ]
+        }
+    ]
+}

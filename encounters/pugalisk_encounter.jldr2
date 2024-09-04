@@ -1,0 +1,87 @@
+{
+    "name": "DontStarveEn.Pugalisk",
+    "minDifficulty": 1,
+    "maxDifficulty": 100,
+    "regions": [
+        "Forest",
+        "Alpine",
+        "Wetlands"
+    ],
+    "dominantTribes": [
+        "Reptile",
+        "Canine"
+    ],
+    "randomReplacementCards": [
+        "dontstarve_yellow_crocodog",
+        "dontstarve_blue_crocodog",
+        "dontstarve_crocodog",
+        "dontstarve_saladmander",
+        "dontstarve_hound",
+        "dontstarve_red_hound",
+        "dontstarve_blue_hound"
+    ],
+    "redundantAbilities": [
+        "WhackAMole",
+        "GuardDog"
+    ],
+    "turns": [
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_pugalisk"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 25,
+                    "difficultyReplacement": "dontstarve_yellow_crocodog"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 10,
+                    "difficultyReplacement": "dontstarve_blue_hound"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 20,
+                    "difficultyReplacement": "dontstarve_red_hound"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        }
+    ]
+}

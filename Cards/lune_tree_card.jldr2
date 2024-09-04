@@ -1,0 +1,21 @@
+{
+    "name": "lune_tree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Lune Tree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "tribes": [
+        "empathymp3.inscryption.dontstarve.Lunar"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "lune_tree.png"
+}

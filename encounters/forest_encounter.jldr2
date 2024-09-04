@@ -1,0 +1,98 @@
+{
+    "name": "DontStarveEn.Forest",
+    "minDifficulty": 1,
+    "maxDifficulty": 100,
+    "regions": [
+        "Forest"
+    ],
+    "dominantTribes": [
+        "empathymp3.inscryption.dontstarve.Plant"
+    ],
+    "randomReplacementCards": [
+        "dontstarve_birchnutter",
+        "dontstarve_poison_birchnut_tree",
+        "dontstarve_snaptooth_seedling1",
+        "dontstarve_spider_monkey",
+        "dontstarve_mandrake_sleeping",
+        "dontstarve_piko"
+    ],
+    "redundantAbilities": [
+        "Reach"
+    ],
+    "turns": [
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarveEn_birchnut_tree",
+                    "difficultyReq": 20,
+                    "difficultyReplacement": "dontstarve_poison_birchnut_tree"
+                },
+                {
+                    "card": "",
+                    "difficultyReq": 25,
+                    "difficultyReplacement": "dontstarve_birchnutter"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "dontstarve_treeguard"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "randomReplaceChance": 100
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 15,
+                    "difficultyReplacement": "dontstarve_snaptooth_seedling1"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 19,
+                    "difficultyReplacement": "dontstarve_mandrake_sleeping"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 24,
+                    "difficultyReplacement": "dontstarve_spider_monkey"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 27,
+                    "difficultyReplacement": "dontstarve_poison_birchnut_tree"
+                }
+            ]
+        },
+        {
+            "cardInfo": [
+                {
+                    "card": "",
+                    "difficultyReq": 33,
+                    "difficultyReplacement": "dontstarve_snaptooth_seedling2"
+                }
+            ]
+        }
+    ]
+}

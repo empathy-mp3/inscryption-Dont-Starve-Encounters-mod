@@ -1,0 +1,21 @@
+{
+    "name": "mangrove_tree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Mangrove Tree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "abilities": [
+        "Reach"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "mangrove_tree.png"
+}

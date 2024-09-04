@@ -1,0 +1,21 @@
+{
+    "name": "ash_tree",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Ash Tree",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "abilities": [
+        "Brittle"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "ash_tree.png"
+}

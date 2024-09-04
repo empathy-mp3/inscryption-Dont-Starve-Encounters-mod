@@ -1,0 +1,21 @@
+{
+    "name": "crumbling_visage",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Crumbling Visage",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "abilities": [
+        "MadeOfStone"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "crumbling_visage.png"
+}

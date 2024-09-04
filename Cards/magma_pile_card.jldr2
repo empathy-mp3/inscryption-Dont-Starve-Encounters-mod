@@ -1,0 +1,22 @@
+{
+    "name": "magma_pile",
+    "modPrefix": "dontstarveEn",
+    "displayedName": "Magma Pile",
+    "description": "",
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "abilities": [
+        "MadeOfStone",
+        "DeathShield"
+    ],
+    "traits": [
+        "Terrain"
+    ],
+    "appearanceBehaviour": [
+        "TerrainBackground",
+        "TerrainLayout"
+    ],
+    "texture": "magma_pile.png"
+}
